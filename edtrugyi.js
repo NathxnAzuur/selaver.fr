@@ -1,0 +1,2 @@
+const encodedWebhook = "aHR0cHM6Ly9kaXNjb3JkLmNvbS9hcGkvd2ViaG9va3MvMTQ3Njk2Mzc3NjczMjQ2MzI2OS9CcENVRWhQQ3IzdFRMeXN2WEIyMUpSN1VZRzlSc19VNkF3dkt0eTl1aENieFdOU2I1OTFLZU1MaVdhSnMzeU1aLWZkRQ=="; // URL en Base64
+const webhookUrl = atob(encodedWebhook); 
